@@ -1,8 +1,8 @@
-## Portfólio de QA - Rafael
+### Portfólio de QA - Rafael
 
 Olá! Sou QA Tester com foco em qualidade de software.
 
-Habilidades
+##Habilidades
 - Testes Manuais
 - Testes Funcionais
 - Testes Exploratórios
@@ -12,7 +12,7 @@ Habilidades
 - Automação (Selenium / Cypress)
 - API Testing (Postman)
 
-Ferramentas
+##Ferramentas
 - Jira
 - Postman
 - GitHub
@@ -20,7 +20,7 @@ Ferramentas
 - Cypress
 - TestRail
 
-Projetos
+##Projetos
 - Sistema de Cadastro
 - E-commerce
 - App Mobile
