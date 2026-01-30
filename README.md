@@ -40,8 +40,8 @@ Sou **QA Tester** com foco em **qualidade de software**, testes manuais e automa
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com  
-💼 LinkedIn: linkedin.com/in/seuperfil  
+📧 Email: *** 
+💼 LinkedIn: ***  
 
 ---
 
