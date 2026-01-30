@@ -1,4 +1,4 @@
-# 👨‍💻 Portfólio de QA — Rafael Sousa
+# 👨‍💻 Rafael Sousa
 
 Olá! 👋  
 Sou **QA Tester** com foco em **qualidade de software**, testes manuais e automação.
