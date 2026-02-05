@@ -1,4 +1,4 @@
-Bug Report - Erro no Carrinho
+## Bug Report - Erro no Carrinho
 
 ---
 
@@ -20,7 +20,7 @@ Ao tentar remover um produto do carrinho, a página congela e para de responder.
 
 ---
 
-Passos para Reproduzir
+## Passos para Reproduzir
 
 1. Acessar a loja  
 2. Adicionar produto ao carrinho  
@@ -29,32 +29,32 @@ Passos para Reproduzir
 
 ---
 
-Resultado Esperado
+## Resultado Esperado
 
 O produto deve ser removido sem impactar o funcionamento do sistema.
 
 ---
 
-Resultado Atual
+## Resultado Atual
 
 A página trava e precisa ser recarregada.
 
 ---
 
-Evidências
+## Evidências
 
 Anexar vídeo ou print da falha.
 
 ---
 
-Severidade e Prioridade
+## Severidade e Prioridade
 
 - **Severidade:** Alta  
 - **Prioridade:** Média
 
 ---
 
-Observações
+## Observações
 
 O problema ocorre quando há mais de 3 itens no carrinho.
 
