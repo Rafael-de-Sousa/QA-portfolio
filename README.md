@@ -1,50 +1,45 @@
-# 👨‍💻 Rafael Sousa
+# Rafael de Sousa
 
-Olá! 👋  
+Olá!   
 Sou **QA Tester** com foco em **qualidade de software**, testes manuais e automação.
 
 ---
 
-## 🚀 Habilidades
+## Habilidades
 
-✔️ Testes Manuais  
-✔️ Testes Funcionais  
-✔️ Testes Exploratórios  
-✔️ Testes de Regressão  
-✔️ Criação de Casos de Teste  
-✔️ Relatórios de Bugs  
-✔️ Automação (Selenium / Cypress)  
-✔️ Testes de API (Postman)
-
----
-
-## 🛠️ Ferramentas
-
-🔹 Jira  
-🔹 Postman  
-🔹 GitHub  
-🔹 Selenium  
-🔹 Cypress  
-🔹 TestRail  
+Testes Manuais  
+Testes Funcionais  
+Testes Exploratórios  
+Testes de Regress0o  
+Criação de Casos de Teste  
+Relatórios de Bugs  
+Automação (Cypress)  
+Testes de API (Postman)
 
 ---
 
-## 📂 Projetos
+## Ferramentas
 
-📌 **Sistema de Cadastro**  
-📌 **E-commerce**  
-📌 **App Mobile**  
-📌 **API REST**
+Jira 
+Cypress
+Postman  
+GitHub  
+ 
+---
+
+## Projetos
+
+### Automação
+
+Loja Virtual - Cypress  
+https://github.com/Rafael-de-Sousa/loja-virtual/automacao-cypress
 
 ---
 
-## 📫 Contato
+## Contato
 
-📧 Email: *** 
-💼 LinkedIn: ***  
+📧 Email: rasousa822@gmail.com 
 
----
 
-✨ *Em constante aprendizado e evolução na área de QA.*
 
 
