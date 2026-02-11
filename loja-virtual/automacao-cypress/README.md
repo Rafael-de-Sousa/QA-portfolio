@@ -24,7 +24,7 @@ Limpar carrinho
 
 Finalizar compra
 
-Validação do formulário
+Validação do formulário - Checkout(Nome, Email, Endereço, Pagamento)
 
 ## Estrutura
 cypress/e2e/loja.cy.js
