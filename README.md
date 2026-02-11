@@ -20,19 +20,20 @@ Testes de API (Postman)
 
 ## Ferramentas
 
-Jira 
+Jira
+
 Cypress
+
 Postman  
+
 GitHub  
  
 ---
 
 ## Projetos
 
-### Automação
-
-Loja Virtual - Cypress  
-https://github.com/Rafael-de-Sousa/loja-virtual/automacao-cypress
+### Loja Virtual  
+https://github.com/Rafael-de-Sousa/loja-virtual/
 
 ---
 
