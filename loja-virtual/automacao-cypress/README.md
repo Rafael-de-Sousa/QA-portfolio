@@ -5,7 +5,6 @@ Projeto de automação de testes E2E para uma loja virtual.
 ## Tecnologias
 - Cypress
 - JavaScript
-- Node.js
 - Bootstrap
 
 ## Como executar
