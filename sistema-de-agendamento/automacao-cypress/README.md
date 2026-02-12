@@ -75,14 +75,7 @@ Valida a regra de negócio que impede dois agendamentos no mesmo horário.
 ### Deve excluir agendamento
 Valida a remoção correta de um agendamento existente.
 
----
 
-## Evolução do Projeto
-
-Bug identificado: Permitia horário duplicado  
-Bug corrigido no sistema  
-Automação criada para validar a regra de negócio  
-Testes passando após correção  
 
 
 
