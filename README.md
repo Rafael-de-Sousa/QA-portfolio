@@ -10,7 +10,7 @@ Sou **QA Tester** com foco em **qualidade de software**, testes manuais e automa
 Testes Manuais  
 Testes Funcionais  
 Testes Exploratórios  
-Testes de Regress0o  
+Testes de Regressão  
 Criação de Casos de Teste  
 Relatórios de Bugs  
 Automação (Cypress)  
@@ -30,7 +30,7 @@ GitHub
  
 ---
 
-## Projetos
+## Testes
 
 ### Loja Virtual  
 https://github.com/Rafael-de-Sousa/loja-virtual/
