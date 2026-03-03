@@ -21,7 +21,7 @@ Validar o correto funcionamento do sistema LojaQA-Teste que é uma aplicação w
           •	Login
           •	Cadastro
           •	Carrinho
-   2.2 Não incluído
+   	2.2 Não incluído
       •	Testes de API
       •	Testes em dispositivos como: tablet e celular
 
