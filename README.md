@@ -33,7 +33,11 @@ GitHub
 ## Testes
 
 ### Loja Virtual  
-https://github.com/Rafael-de-Sousa/loja-virtual/
+loja-virtual
+### Lista de Tarefas
+lista-de-tarefas
+### Sistema de Agendamento
+sistema-de-agendamento
 
 ---
 
