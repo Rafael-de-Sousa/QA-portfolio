@@ -80,15 +80,11 @@ Cada bug contém descrição, passos para reprodução, severidade e evidências
 
 ## Autor
 
-**Rafael (Rafa)**  
+**Rafael de Sousa**  
 QA Tester em formação  
 Brasil  
 
 GitHub: https://github.com/Rafael-de-Sousa/QA-portfolio
 
----
 
-## Status do Projeto
-
-Em constante evolução e melhoria.
 
