@@ -1,1 +1,80 @@
+# Projeto de Testes – LojaQA-Teste
+
+## Sobre o Projeto
+
+O **LojaQA-Teste** é uma aplicação web de e-commerce simplificada, criada para fins de aprendizado, utilizada para demonstrar habilidades em Planejamento, Execução e Automação de Testes de Software.
+
+Este repositório apresenta documentação completa de testes manuais e automação utilizando Cypress, simulando um ambiente real de trabalho em QA.
+
+---
+
+# Objetivo
+
+Validar o correto funcionamento do sistema LojaQA-Teste, garantindo que todas as funcionalidades estejam de acordo com os requisitos definidos.
+
+---
+
+# Escopo dos Testes
+
+## Incluído
+
+- Testes Funcionais  
+- Testes Negativos  
+- Testes Exploratórios  
+- Testes de Regressão  
+- Testes Automatizados (Cypress)  
+
+## Não Incluído
+
+- Testes de API  
+- Testes em dispositivos móveis (tablet e celular)  
+
+---
+
+# Funcionalidades Testadas
+
+- Login de usuário
+- Cadastro de usuário
+- Busca de produtos
+- Filtro por categoria
+- Adição de produtos ao carrinho
+- Cálculo automático do total
+- Limpeza do carrinho
+
+---
+
+# Ambiente de Teste
+
+- Sistema Operacional: Windows 10  
+- Navegadores:
+  - Google Chrome
+  - Microsoft Edge
+  - Mozilla Firefox  
+
+---
+
+# Automação de Testes
+
+Automação realizada utilizando **Cypress**.
+
+### Cenários Automatizados:
+
+- Login válido
+- Login inválido
+- Cadastro com validação de campos obrigatórios
+- Adição de produto ao carrinho
+- Validação do valor total
+- Limpeza do carrinho
+
+---
+
+# Critérios de Aceitação
+
+O sistema é considerado aprovado se:
+
+- 100% dos requisitos funcionais estiverem cobertos por casos de teste
+- Não houver bugs críticos em aberto
+- Testes automatizados executarem sem falhas
+- Documentação estiver organizada e completa
+
 
