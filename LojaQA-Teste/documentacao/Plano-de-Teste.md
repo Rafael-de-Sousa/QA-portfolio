@@ -7,7 +7,7 @@ Autor: Rafael de Sousa
 Validar o correto funcionamento do sistema LojaQA-Teste que é uma aplicação web de e-commerce simplificada, desenvolvida para permitir simulação de operações básicas de uma loja virtual.
 
 ## 2.Escopo
-	# 2.1Incluído
+	 2.1Incluído
 	    2.1.1 Testes Funcionais
 		    Validação de todos os requisitos funcionais.
 	    2.1.2 Testes Negativos
@@ -21,7 +21,7 @@ Validar o correto funcionamento do sistema LojaQA-Teste que é uma aplicação w
           •	Login
           •	Cadastro
           •	Carrinho
-  # 2.2 Não incluído
+   2.2 Não incluído
       •	Testes de API
       •	Testes em dispositivos como: tablet e celular
 
