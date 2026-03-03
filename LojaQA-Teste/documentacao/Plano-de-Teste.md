@@ -1,4 +1,4 @@
-### Plano de teste – LojaQA-Teste
+# Plano de teste – LojaQA-Teste
 Versão: 1.0
 Data: 03/03/2026
 Autor: Rafael de Sousa
