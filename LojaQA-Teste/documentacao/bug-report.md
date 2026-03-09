@@ -1,6 +1,6 @@
 # Bug Report – LojaQA - Teste
 
-Projeto: Loja Virtual  
+Projeto: LojaQA - Teste 
 Ambiente: Navegador Chrome  
 Versão: 1.0  
 
