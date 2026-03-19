@@ -20,7 +20,7 @@ Testes de API (Postman)
 
 ## Ferramentas
 
-Jira
+Notion
 
 Cypress
 
@@ -28,17 +28,6 @@ Postman
 
 GitHub  
  
----
-
-## Testes
-
-### Loja Virtual  
-loja-virtual
-### Lista de Tarefas
-lista-de-tarefas
-### Sistema de Agendamento
-sistema-de-agendamento
-
 ---
 
 ## Contato
