@@ -1,39 +1,52 @@
 # Rafael de Sousa
 
-Olá!   
-Sou **QA Tester** com foco em **qualidade de software**, testes manuais e automação.
+Olá! Sou um profissional em transição para a área de Quality Assurance (QA), com foco em testes manuais e automação de testes.
+
+Tenho experiência prática na criação e execução de testes em aplicações web, buscando garantir qualidade, identificar falhas e melhorar a experiência do usuário.
 
 ---
 
 ## Habilidades
 
-Testes Manuais  
-Testes Funcionais  
-Testes Exploratórios  
-Testes de Regressão  
-Criação de Casos de Teste  
-Relatórios de Bugs  
-Automação (Cypress)  
-Testes de API (Postman)
+### Testes de Software
+- Testes funcionais  
+- Testes exploratórios  
+- Testes de regressão  
+- Criação de casos de teste  
+- Escrita de cenários de teste  
+- Registro e acompanhamento de defeitos (bugs)  
+
+### Automação de Testes
+- Cypress (Testes End-to-End - E2E)
+
+### Testes de API
+- Postman  
 
 ---
 
 ## Ferramentas
+- Cypress  
+- Postman  
+- GitHub  
+- Notion  
 
-Notion
+---
 
-Cypress
+## Projetos em Destaque
 
-Postman  
+- Automação de testes com Cypress  
+- Testes manuais em aplicação web (casos de teste e execução)   
 
-GitHub  
- 
+Acesse meus repositórios para ver os testes e automações na prática.
+
+---
+
+## Objetivo
+
+Busco uma oportunidade como QA Júnior ou Estagiário, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para a qualidade dos produtos.
+
 ---
 
 ## Contato
 
-📧 Email: rasousa822@gmail.com 
-
-
-
-
+Email: rasousa822@gmail.com
