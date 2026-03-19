@@ -19,7 +19,7 @@ Tenho experiência prática na criação e execução de testes em aplicações 
 ### Automação de Testes
 - Cypress (Testes End-to-End - E2E)
 
-## Demonstração de automação
+- Demonstração de automação
 
 Vídeo mostrando a execução dos testes automatizados com Cypress:
 
