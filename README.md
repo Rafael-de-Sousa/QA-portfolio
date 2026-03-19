@@ -19,9 +19,11 @@ Tenho experiência prática na criação e execução de testes em aplicações 
 ### Automação de Testes
 - Cypress (Testes End-to-End - E2E)
 
-### Testes de API
-- Postman  
+## Demonstração de automação
 
+Vídeo mostrando a execução dos testes automatizados com Cypress:
+
+https://youtu.be/DYN9hZLtjDo
 ---
 
 ## Ferramentas
