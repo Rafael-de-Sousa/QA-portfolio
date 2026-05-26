@@ -1,12 +1,12 @@
-Plano de teste – Sistema de Gestão de Estoque
+# Plano de teste – Sistema de Gestão de Estoque
 Versão: 1.0
 Data: 2026
 Autor: Rafael de Sousa
 
-1.Objetivo
+## 1.Objetivo
 Fazer o planejamento dos testes para validar o Sistema de Gestão de Estoque, que tem como objetivo permitir que empresas registrem, consultem e gerenciem produtos armazenados em estoque.
 
-2.Escopo
+## 2.Escopo
 	2.1 Incluído
 	2.1.1 Testes Funcionais
 •	 RF01 – Cadastro de Produto
@@ -50,31 +50,31 @@ Fazer o planejamento dos testes para validar o Sistema de Gestão de Estoque, qu
 •	Testes de API
 •	Testes em dispositivos como: tablet e celular
 
-3. Tipos de Teste
+## 3. Tipos de Teste
 - Testes Funcionais
 - Testes Não Funcionais
 - Testes Exploratórios
 - Testes de Regressão
 - Testes Automatizados
 
-4.Ambiente de teste
+## 4.Ambiente de teste
 - Sistema Operacional: Windows 10
 - Navegadores:
    - Google Chrome
    - Microsoft Edge
    - Mozilla Firefox
-5.Critérios de aceitação
+## 5.Critérios de aceitação
 •	Uma funcionalidade será considerada aceita quando:
 •	Todos os testes funcionais passarem
 •	Nenhum bug crítico estiver aberto
 •	Testes de regressão forem executados
-6. Riscos
+## 6. Riscos
 	Exemplo:
 •	Falta de validação de backend
 •	Dados não persistem
 •	Ausência de ambiente de homologação
 •	Mudança de requisito durante execução
-7. Cronograma
+## 7. Cronograma
 •	Planejamento: 1 dia
 •	Criação de Casos de Teste: 2 dias
 •	Execução Manual: 1 dia
