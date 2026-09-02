@@ -6,6 +6,8 @@ O **LojaQA-Teste** é uma aplicação web de e-commerce simplificada, criada par
 
 Este repositório apresenta documentação completa de testes manuais e automação utilizando Cypress, simulando um ambiente real de trabalho em QA.
 
+**[Clique aqui para acessar o site que está sendo testado](https://rafael-de-sousa.github.io/LojaQA-teste/)**
+
 ---
 
 # Objetivo
