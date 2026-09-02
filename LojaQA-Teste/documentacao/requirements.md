@@ -4,7 +4,7 @@
 **Versão:** 1.0.0  
 **Empresa:** TechNova Solutions  
 **Data:** 02/09/2026  
-**Responsável pelo Teste:** Rafael Sousa  
+**Responsável pelo Teste:** Rafael de Sousa  
 
 ---
 
