@@ -7,7 +7,7 @@ Versão: 1.0
 ## BUG-001 – Sistema aceita cadastro com email inválido
 
 **ID:** BUG-001  
-**Título:** Sistema aceita cadastro com email inválido 
+**Título:** Sistema aceita cadastro com email inválido  
 **Requisito relacionado:** RF02  
 **Caso de teste:** CT07  
 **Status:** Aberto  
