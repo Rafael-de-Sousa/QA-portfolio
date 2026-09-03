@@ -1,18 +1,42 @@
 # Bug Report – LojaQA - Teste
 
-Projeto: LojaQA - Teste 
+Projeto: LojaQA - Teste  
 Ambiente: Navegador Chrome  
 Versão: 1.0  
 
-## BUG-001 – Busca de produto inexistente não exibe mensagem
+## BUG-001 – Sistema aceita cadastro com email inválido
 
 **ID:** BUG-001  
+**Título:** Sistema aceita cadastro com email inválido
+**Requisito relacionado:** RF02  
+**Caso de teste:** CT07  
+**Status:** Aberto  
+
+### Descrição
+
+Ao tentar fazer o cadastro, se o usuário inserir um email inválido, sem o @, por exemplo, o sistema aceita o cadastro.
+
+### Passos para reproduzir:
+
+1- Acessar o site da loja
+2- Na seção cadastro, inserir nome (Ex: Novo Usuário), email inválido (Ex: novousuariogmail.com - sem o @ ou formato incorreto) e criar senha (Ex: abc123)
+3- Clicar em 'Cadastrar'
+
+###  Resultado Atual
+
+- O sistema não exibe a mensagem 'Email inválido!'
+- Exibe a mensagem 'Cadastro realizado com sucesso!'
+
+### Resultado Esperado
+
+O sistema deve exibir a mensagem: 'Email inválido!'
+
+## BUG-002 – Busca de produto inexistente não exibe mensagem
+
+**ID:** BUG-002  
 **Título:** Sistema não exibe mensagem quando produto não é encontrado  
 **Requisito relacionado:** RF03  
-**Caso de teste:** CT03-BUSCA-02  
-
-**Severidade:** Média  
-**Prioridade:** Média  
+**Caso de teste:** CT14  
 **Status:** Aberto  
 
 ### Descrição
@@ -21,28 +45,23 @@ Ao buscar por um produto inexistente, o sistema não exibe a mensagem informando
 
 ### Passos para reproduzir:
 
-1. Fazer login no sistema
-2. Ir até o campo **Buscar Produtos**
-3. Digitar um nome de produto que não existe
-4. Clicar em **Buscar**
+1- Na seção Buscar Produto, inserir o nome de um produto inexistente (Ex: produtonãoexiste) 
+2- Clicar em 'Buscar'
 
 ###  Resultado Atual
 
 - Nenhuma mensagem é exibida
-- Todos os produtos da seção "Produtos" desaparecem
 
 ### Resultado Esperado
 
 O sistema deve exibir a mensagem:
-Produto não encontrado.
-
-## Impacto
-
-Pode gerar confusão no usuário e prejudicar a usabilidade do site.
+Produto não encontrado!
 
 # Conclusão
 
 Durante a execução dos testes foi identificado:
 
-- 1 bug funcional
+- 2 bugs funcionais
+
+
 
