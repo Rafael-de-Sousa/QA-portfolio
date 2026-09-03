@@ -18,13 +18,13 @@ Ao tentar fazer o cadastro, se o usuário inserir um email inválido, sem o @, p
 
 ### Passos para reproduzir:
 
-1- Acessar o site da loja 
-2- Na seção cadastro, inserir nome (Ex: Novo Usuário), email inválido (Ex: novousuariogmail.com - sem o @ ou formato incorreto) e criar senha (Ex: abc123) 
+1- Acessar o site da loja  
+2- Na seção cadastro, inserir nome (Ex: Novo Usuário), email inválido (Ex: novousuariogmail.com - sem o @ ou formato incorreto) e criar senha (Ex: abc123)  
 3- Clicar em 'Cadastrar'
 
 ###  Resultado Atual
 
-- O sistema não exibe a mensagem 'Email inválido!'
+- O sistema não exibe a mensagem 'Email inválido!'  
 - Exibe a mensagem 'Cadastro realizado com sucesso!'
 
 ### Resultado Esperado
@@ -45,7 +45,7 @@ Ao buscar por um produto inexistente, o sistema não exibe a mensagem informando
 
 ### Passos para reproduzir:
 
-1- Na seção Buscar Produto, inserir o nome de um produto inexistente (Ex: produtonãoexiste)  
+1- Na seção Buscar Produto, inserir o nome de um produto inexistente (Ex: produtonãoexiste)   
 2- Clicar em 'Buscar'
 
 ###  Resultado Atual
@@ -54,7 +54,7 @@ Ao buscar por um produto inexistente, o sistema não exibe a mensagem informando
 
 ### Resultado Esperado
 
-O sistema deve exibir a mensagem:
+O sistema deve exibir a mensagem:  
 Produto não encontrado!
 
 # Conclusão
