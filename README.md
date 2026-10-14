@@ -28,10 +28,6 @@ Portfólio de projetos práticos em **Quality Assurance (QA)** e Desenvolvimento
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-### Projetos
-Projetos práticos com documentação de requisitos, casos de teste, planos de teste, relatórios de bugs e automação com Cypress.
-
-  
 
 ### Automação de Testes
 - Cypress (Testes End-to-End - E2E)
