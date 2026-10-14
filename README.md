@@ -1,20 +1,37 @@
 # Rafael de Sousa
 
-Olá! Sou um profissional em transição para a área de Quality Assurance (QA), com foco em testes manuais e automação de testes.
+# QA Portfolio
 
-Tenho experiência prática na criação e execução de testes em aplicações web, buscando garantir qualidade, identificar falhas e melhorar a experiência do usuário.
-
----
-
-## Habilidades
+Portfólio de projetos práticos em **Quality Assurance (QA)** e Desenvolvimento de Software.
 
 ### Testes de Software
-- Testes funcionais  
-- Testes exploratórios  
-- Testes de regressão  
-- Criação de casos de teste  
-- Escrita de cenários de teste  
-- Registro e acompanhamento de defeitos (bugs)  
+- Testes manuais, funcionais, exploratórios e de regressão
+- Criação de casos e cenários de teste
+- Testes de interface (UI) e testes de API
+- Automação de testes E2E com Cypress
+
+### Tecnologias e Ferramentas
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+### Projetos
+Projetos práticos com documentação de requisitos, casos de teste, planos de teste, relatórios de bugs e automação com Cypress.
+
+  
 
 ### Automação de Testes
 - Cypress (Testes End-to-End - E2E)
@@ -25,29 +42,6 @@ Tenho experiência prática na criação e execução de testes em aplicações 
 
   https://youtu.be/DYN9hZLtjDo
   
----
-
-## Ferramentas
-- Cypress  
-- Postman  
-- GitHub  
-- Notion  
-
----
-
-## Projetos em Destaque
-
-- Automação de testes com Cypress  
-- Testes manuais em aplicação web (casos de teste e execução)   
-
-Acesse meus repositórios para ver os testes e automações na prática.
-
----
-
-## Objetivo
-
-Busco uma oportunidade como QA Júnior ou Estagiário, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para a qualidade dos produtos.
-
 ---
 
 ## Contato
