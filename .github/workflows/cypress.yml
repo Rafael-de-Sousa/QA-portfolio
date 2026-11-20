@@ -10,6 +10,7 @@ on:
 jobs:
   cypress-run:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     
     # Não cancela os outros projetos se um deles falhar
     strategy:
