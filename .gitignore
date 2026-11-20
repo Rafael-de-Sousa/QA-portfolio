@@ -1,0 +1,17 @@
+# Ignora node_modules em qualquer subpasta
+**/node_modules/
+
+# Ignora vídeos, screenshots e downloads do Cypress em qualquer subpasta
+**/cypress/videos/
+**/cypress/screenshots/
+**/cypress/downloads/
+
+# Ignora variáveis de ambiente e senhas em qualquer subpasta
+**/.env
+**/cypress.env.json
+
+# Arquivos de sistema operacional e editores
+.DS_Store
+Thumbs.db
+**/.vscode/
+**/.idea/
