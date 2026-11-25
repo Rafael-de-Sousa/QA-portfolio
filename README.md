@@ -30,7 +30,6 @@ Portfólio de projetos práticos em **Quality Assurance (QA)** e Desenvolvimento
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ### Projetos
-## Documentação de QA & Automação por Projeto
 
 #### 1. LojaQA-Teste
 * **Casos de Teste:** [Acessar Test Cases](./LojaQA-Teste/documentation/test-case.md)
