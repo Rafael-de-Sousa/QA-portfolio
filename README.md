@@ -1,4 +1,4 @@
-# Rafael de Sousa
+# Rafael de Sousa [![Automação Cypress - Portfólio](https://github.com/Rafael-de-Sousa/QA-portfolio/actions/workflows/cypress.yml/badge.svg)](https://github.com/Rafael-de-Sousa/QA-portfolio/actions/workflows/cypress.yml)
 
 # QA Portfolio
 
