@@ -29,6 +29,12 @@ Portfólio de projetos práticos em **Quality Assurance (QA)** e Desenvolvimento
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
+### Projetos
+### LojaQA-Teste
+* **Casos de Teste:** [Acessar Test Cases](./LojaQA-Teste/documentation/test-case.md)
+* **Relatório de Bugs:** [Acessar Bug Reports](./LojaQA-Teste/documentation/bug-report.md)
+* **Automação E2E (Cypress):** [Ver Código dos Testes](./LojaQA-Teste/automation/cypress/e2e)
+
 
 ### Automação de Testes
 - Cypress (Testes End-to-End - E2E)
