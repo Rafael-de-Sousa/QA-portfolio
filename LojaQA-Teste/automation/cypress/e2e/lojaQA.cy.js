@@ -1,7 +1,7 @@
 describe('LojaQA - Testes E2E', () => {
 
   beforeEach(() => {
-    cy.visit('../index.html')
+    cy.visit('https://rafael-de-sousa.github.io/LojaQA-teste/')
   })
 
   // LOGIN
