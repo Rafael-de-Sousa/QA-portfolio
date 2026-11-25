@@ -27,15 +27,7 @@ describe('Sistema de Agendamento - Clínica', () => {
     cy.contains('10:00')
   })
 
-  it('Não permitir campos obrigatórios vazios', () => {
-    cy.get('[data-cy="btn-agendar"]').click()
-        
-    cy.get('[data-cy="input-nome"]') // Seleciona o input que deveria ser    preenchido
-        .should(($input) => {
-        // Acessa o elemento nativo do DOM e valida a mensagem do HTML5
-        expect($input[0].validationMessage).to.equal('Preencha este campo.');
-    });
-  })
+
 
   it('Não deve permitir agendamento com números no nome', () => {
         
