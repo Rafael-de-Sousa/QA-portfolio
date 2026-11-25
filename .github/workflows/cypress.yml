@@ -17,7 +17,7 @@ jobs:
       fail-fast: false
       matrix:
         # COLOQUE AQUI OS NOMES EXATOS DAS SUAS 3 PASTAS:
-        project: [lojaQA-Teste, loja-virtual, sistema-de-agendamento]
+        project: [LojaQA-Teste, loja-virtual, sistema-de-agendamento]
 
     steps:
       - name: Checkout do repositório
