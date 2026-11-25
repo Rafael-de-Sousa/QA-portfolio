@@ -26,18 +26,18 @@ jobs:
       - name: Executar testes Cypress (${{ matrix.project }})
         uses: cypress-io/github-action@v6
         with:
-          working-directory: ./${{ matrix.project }}
+          working-directory: ./${{ matrix.project }}/automation
 
       - name: Salvar screenshots de falha (${{ matrix.project }})
         uses: actions/upload-artifact@v4
         if: failure()
         with:
           name: screenshots-${{ matrix.project }}
-          path: ${{ matrix.project }}/cypress/screenshots
+          path: ${{ matrix.project }}/automation/cypress/screenshots
 
       - name: Salvar vídeos da execução (${{ matrix.project }})
         uses: actions/upload-artifact@v4
         if: always()
         with:
           name: videos-${{ matrix.project }}
-          path: ${{ matrix.project }}/cypress/videos
+          path: ${{ matrix.project }}/automation/cypress/videos
