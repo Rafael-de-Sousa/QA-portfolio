@@ -30,7 +30,7 @@ Portfólio de projetos práticos em **Quality Assurance (QA)** e Desenvolvimento
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ### Projetos
-### LojaQA-Teste
+#### LojaQA-Teste
 * **Casos de Teste:** [Acessar Test Cases](./LojaQA-Teste/documentation/test-case.md)
 * **Relatório de Bugs:** [Acessar Bug Reports](./LojaQA-Teste/documentation/bug-report.md)
 * **Automação E2E (Cypress):** [Ver Código dos Testes](./LojaQA-Teste/automation/cypress/e2e)
