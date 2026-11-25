@@ -1,7 +1,7 @@
 describe('LojaQA - Testes E2E', () => {
 
   beforeEach(() => {
-    cy.visit('index.html')
+    cy.visit('../index.html')
   })
 
   // LOGIN
